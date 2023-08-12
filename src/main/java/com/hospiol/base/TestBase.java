@@ -45,9 +45,7 @@ public class TestBase {
 		}
 		if (browsername.equals("firefox")) {
 			WebDriverManager.firefoxdriver().setup();
-		} else {
-			System.out.println("Required browser name");
-		}
+		} 
 		driver.manage().window().maximize();
 		driver.get(prop.getProperty("url"));
 		driver.manage().timeouts().pageLoadTimeout(10, TimeUnit.SECONDS);

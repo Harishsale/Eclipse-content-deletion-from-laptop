@@ -1,6 +1,6 @@
 
-url="http://hospiol.com/"
+url=http://admin.hospiol.com/site/login
 browser=chrome
 
-username="abhishek@marolix.com"
-password="Reset@123"
+username=abhishek@marolix.com
+password=Reset@123
