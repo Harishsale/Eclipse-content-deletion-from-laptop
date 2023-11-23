@@ -23,7 +23,7 @@ public class TestBase {
 
 		try {
 			FileInputStream file = new FileInputStream(
-					"C:\\Users\\Jakkam Sairam\\eclipse-workspace\\com.hospiol\\src\\main\\java\\com\\hospiol\\configprop\\propertiesfile");
+					"C:\\Users\\Dell\\git\\Com.Hospiol\\src\\main\\java\\com\\hospiol\\configprop\\propertiesfile");
 			try {
 				prop.load(file);
 			} catch (IOException e) {

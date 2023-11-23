@@ -33,7 +33,6 @@ public class Logintest extends TestBase {
 	}
 
 	@Test(priority = 3, description = "Login functionality url verification")
-
 	public void validateurl() {
 		lp.Verifylogin();
 		String url = driver.getCurrentUrl();

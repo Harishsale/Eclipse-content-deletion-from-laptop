@@ -21,22 +21,6 @@
 			<artifactId>selenium-java</artifactId>
 			<version>3.6.0</version>
 		</dependency>
-
-		<dependency>
-			<groupId>SeleniumJava</groupId>
-			<artifactId>SeleniumJava</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
-		<dependency>
-			<groupId>com.info</groupId>
-			<artifactId>AutomationPom</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
-		<dependency>
-			<groupId>Framework</groupId>
-			<artifactId>Framework</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
 		
 		<!-- https://mvnrepository.com/artifact/org.apache.poi/poi -->
 <dependency>

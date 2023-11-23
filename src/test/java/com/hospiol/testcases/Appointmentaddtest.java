@@ -41,7 +41,6 @@ public class Appointmentaddtest extends TestBase {
 
 		Thread.sleep(3000);
 		// driver.close();
-
 	}
 
 }
